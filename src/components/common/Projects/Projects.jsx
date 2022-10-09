@@ -19,7 +19,6 @@ function Project () {
                 </div>
             </div>
             <div className="ss2">
-                <img src="./src/assets/ss2.png" height={300}></img>
                 <div className="code2">
                     <a href="https://github.com/rafifza/projectentre">Source code </a>
                  </div>
