@@ -1,0 +1,27 @@
+.header{
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+    padding-bottom: 30px;
+    background-color: #FFE2FF;
+    color: #48137F;
+    display: flex;
+    justify-content: space-between ;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.name{
+    position: relative;
+    top: 36px;
+    left: 4%;
+}
+
+.button{
+    position: relative;
+    text-decoration: none;
+    color: #48137F;
+    top: 15px;
+    right: 4%;
+}

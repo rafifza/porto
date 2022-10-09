@@ -1,0 +1,43 @@
+.text{
+    position: absolute;
+    top: 800px;
+    left: 46%;
+}
+
+.text2{
+    position: absolute;
+    top: 850px;
+    left: 44.5%;
+}
+
+.ss1{
+    position: absolute;
+    top: 920px;
+    left: 8%;
+}
+
+.ss2{
+    position: absolute;
+    top: 920px;
+    right: 8%;
+}
+
+.code1 a{
+    text-decoration: none;
+    text-decoration-color: white;
+    color: inherit;
+    position: absolute;
+    top: 320px;
+    left: 43%;
+    
+}
+
+.code2 a{
+    text-decoration: none;
+    text-decoration-color: white;
+    color: inherit;
+    position: absolute;
+    top: 320px;
+    right: 43%;
+    
+}

@@ -1,0 +1,56 @@
+
+.Greeting{
+    font-family: 'Oswald', sans-serif;
+    font-size: 255px;  
+    position: absolute;
+    left: 7%;
+    top: 20%;
+    font-size: 20px;
+}
+
+.About{
+    font-family: 'Source Sans Pro', sans-serif;
+    position: absolute;
+    left: 7%;
+    top: 27%;
+    text-align: left;
+}
+
+.Interest{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 7%;
+    top: 33%;
+}
+
+.foto{
+    position: absolute;
+    top: 19%;
+    right: 20%;
+}
+
+.ig{
+    position: absolute;
+    top: 58%;
+    left: 13.2%;
+}
+
+.linkedin{
+    position: absolute;
+    top: 58%;
+    left: 10.2%;
+}
+
+.github{
+    position: absolute;
+    top: 58%;
+    left: 7.2%;
+}
+
+.social{
+    font-family: 'Source Sans Pro', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 7.2%;
+}
