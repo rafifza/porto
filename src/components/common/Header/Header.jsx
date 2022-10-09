@@ -8,7 +8,6 @@ function Header () {
         <div className="name">
             Muhammad Rafif Zahdana
         </div>
-        <a href="#project" className="button" >
             <p>Projects</p>
         </a>
         </div>
