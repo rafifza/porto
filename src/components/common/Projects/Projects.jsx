@@ -5,6 +5,7 @@ function Project () {
 
     return(
         <div className="" >
+            <div className="text"id="scroll">
                 <h2>Project</h2>
             </div>
             <div className="text2">
