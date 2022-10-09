@@ -22,13 +22,10 @@ function Profil () {
             <h2>Socials</h2>
         </div>
         <div className="ig">
-        <a href="https://www.instagram.com/rafif.za/"><img src="./src/assets/instagram.png" height={30}></img></a>
         </div>
         <div className="linkedin">
-        <a href="https://www.instagram.com/rafif.za/"><img src="./src/assets/linkedin.png" height={30}></img></a>
         </div>
         <div className="github">
-        <a href="https://www.instagram.com/rafif.za/"><img src="./src/assets/github.png" height={30}></img></a>
         </div>
         </div>
     )
