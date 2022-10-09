@@ -17,7 +17,6 @@ function Profil () {
         <h4>What I'm interested in</h4>
         </div>
         <div className="foto">
-            <img src="./src/assets/foto.png" height={200} width></img>
         </div>
         <div className="social">
             <h2>Socials</h2>
