@@ -17,7 +17,7 @@ function App() {
         sequence={[
         'Laravel', 
         1300, 
-        'Vue.js', 
+        'React Native', 
         1300, 
         'Angular.js',
         1300, 
