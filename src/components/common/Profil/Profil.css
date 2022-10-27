@@ -1,58 +1,57 @@
-
-.Greeting{
-    font-family: 'Oswald', sans-serif;
-    font-size: 255px;  
-    position: absolute;
-    left: 7%;
-    top: 20%;
-    font-size: 20px;
+.Greeting {
+  font-family: "Oswald", sans-serif;
+  font-size: 255px;
+  position: absolute;
+  left: 7%;
+  top: 20%;
+  font-size: 20px;
 }
 
-.About{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-    position: absolute;
-    left: 7%;
-    top: 27%;
-    text-align: left;
+.About {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  position: absolute;
+  left: 7%;
+  top: 27%;
+  text-align: left;
 }
 
-.Interest{
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    position: absolute;
-    left: 7%;
-    top: 33.5%;
+.Interest {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  position: absolute;
+  left: 7%;
+  top: 33.5%;
 }
 
-.foto{
-    position: absolute;
-    top: 19%;
-    right: 20%;
+.foto {
+  position: absolute;
+  top: 19%;
+  right: 20%;
 }
 
-.ig{
-    position: absolute;
-    top: 58%;
-    left: 13.2%;
+.ig {
+  position: absolute;
+  top: 58%;
+  left: 13.2%;
 }
 
-.linkedin{
-    position: absolute;
-    top: 58%;
-    left: 10.2%;
+.linkedin {
+  position: absolute;
+  top: 58%;
+  left: 10.2%;
 }
 
-.github{
-    position: absolute;
-    top: 58%;
-    left: 7.2%;
+.github {
+  position: absolute;
+  top: 58%;
+  left: 7.2%;
 }
 
-.social{
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    position: absolute;
-    top: 50%;
-    left: 7.2%;
+.social {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 7.2%;
 }
