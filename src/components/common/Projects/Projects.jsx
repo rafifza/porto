@@ -11,6 +11,7 @@ function Project () {
             <div className="text2">
                 <p>My school projects</p>
             </div>
+            <div className="ss">
             <div className="ss1">
                 <img src="../../assets/ss1.png" height={300}></img>
                 <div className="code1">
@@ -22,6 +23,7 @@ function Project () {
                 <div className="code2">
                     <a href="https://github.com/rafifza/projectentre">Source code </a>
                  </div>
+            </div>
             </div>
         </div>
     )

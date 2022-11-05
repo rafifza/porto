@@ -1,43 +1,44 @@
 .text{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
+    padding-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .text2{
     font-family: 'Poppins', sans-serif;
-    position: absolute;
-    top: 850px;
-    left: 44.5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.ss{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
 .ss1{
-    position: absolute;
-    top: 920px;
-    left: 8%;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .ss2{
-    position: absolute;
-    top: 920px;
-    right: 8%;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .code1 a{
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
+    font-weight: bold;
     text-decoration-color: white;
     color: inherit;
-    position: absolute;
-    top: 320px;
-    left: 43%;
 }
 
 .code2 a{
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
+    font-weight: bold;
     text-decoration-color: white;
     color: inherit;
-    position: absolute;
-    top: 320px;
-    right: 43%;
 }
