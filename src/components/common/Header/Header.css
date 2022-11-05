@@ -1,27 +1,20 @@
-.header{
-    font-family: 'Poppins', sans-serif;
-    font-size: 22px;
-    padding-bottom: 30px;
-    background-color: #FFE2FF;
-    color: #48137F;
-    display: flex;
-    justify-content: space-between ;
-    width: 100%;
-    position: absolute;
-    top: 0%;
-    left: 0%;
+.cont-header {
+  width: 100%;
 }
 
-.name{
-    position: relative;
-    top: 36px;
-    left: 4%;
+.header {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  padding-bottom: 30px;
+  background-color: #ffe2ff;
+  color: #48137f;
+  display: flex;
+  justify-content: space-between;
+  top: 0px;
+  padding: 1.5rem;
 }
 
-.button{
-    position: relative;
-    text-decoration: none;
-    color: #48137F;
-    top: 15px;
-    right: 4%;
+.button {
+  text-decoration: none;
+  color: #48137f;
 }

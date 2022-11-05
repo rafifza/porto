@@ -1,18 +1,17 @@
 import React from "react";
-import './Header.css';
+import "./Header.css";
 
-function Header () {
-
-    return(
-        <div className="header">
-        <div className="name">
-            Muhammad Rafif Zahdana
-        </div>
-        <a href="#scroll" className="button" >
-            <p>Projects</p>
+function Header() {
+  return (
+    <div className="cont-header">
+      <div className="header">
+        <div className="name">Muhammad Rafif Zahdana</div>
+        <a href="#scroll" className="button">
+          <p>Projects</p>
         </a>
-        </div>
-    )
+      </div>
+    </div>
+  );
 }
 
 export default Header;
