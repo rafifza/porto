@@ -1,57 +1,71 @@
+.cont {
+  display: flex;
+  max-width: 1100px;
+  width: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.details {
+  justify-content: center;
+  margin-right: 200px;
+  flex-direction: column;
+}
+
+.intro {
+  text-align: left;
+}
+
+.intCont {
+  margin-top: 1rem;
+  text-align: left;
+  display: block;
+}
 .Greeting {
   font-family: "Oswald", sans-serif;
   font-size: 255px;
-  position: absolute;
-  left: 7%;
-  top: 20%;
   font-size: 20px;
+  text-align: left;
 }
 
 .About {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  position: absolute;
-  left: 7%;
-  top: 27%;
   text-align: left;
+  justify-content: center;
 }
 
 .Interest {
   font-family: "Poppins", sans-serif;
   font-size: 18px;
-  position: absolute;
-  left: 7%;
-  top: 33.5%;
 }
 
 .foto {
-  position: absolute;
-  top: 19%;
-  right: 20%;
+  justify-content: center;
 }
 
 .ig {
-  position: absolute;
-  top: 58%;
-  left: 13.2%;
 }
 
 .linkedin {
-  position: absolute;
-  top: 58%;
-  left: 10.2%;
 }
 
 .github {
-  position: absolute;
-  top: 58%;
-  left: 7.2%;
 }
 
 .social {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
-  position: absolute;
-  top: 50%;
-  left: 7.2%;
+  text-align: left;
+}
+
+.socmed {
+  display: flex;
+  padding: 0.375rem 0.75rem;
+  border: 1px;
+}
+.Typing {
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
 }
