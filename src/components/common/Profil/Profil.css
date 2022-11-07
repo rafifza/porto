@@ -47,12 +47,15 @@
 }
 
 .ig {
+  margin: 0.375rem;
 }
 
 .linkedin {
+  margin: 0.375rem 0.75rem;
 }
 
 .github {
+  margin: 0.375rem;
 }
 
 .social {
@@ -63,7 +66,6 @@
 
 .socmed {
   display: flex;
-  padding: 0.375rem 0.75rem;
   border: 1px;
 }
 .Typing {

@@ -13,8 +13,7 @@
 }
 
 .ss {
-  margin-left: auto;
-  margin-right: auto;
+  justify-content: center;
   display: flex;
 }
 .ss1 {

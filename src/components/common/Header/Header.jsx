@@ -3,7 +3,7 @@ import "./Header.css";
 
 function Header() {
   return (
-    <div className="cont-header">
+    <div name="cont-header" >
       <div className="header">
         <div className="name">Muhammad Rafif Zahdana</div>
         <a href="#scroll" className="button">
@@ -11,6 +11,7 @@ function Header() {
         </a>
       </div>
     </div>
+    
   );
 }
 
