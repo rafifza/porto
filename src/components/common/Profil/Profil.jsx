@@ -61,11 +61,16 @@ function Profil() {
               <img src="../../assets/github.png" height={30}></img>
             </a>
           </div>
+          <a href="mailto:rafifzahdana14@gmail.com" className="email">
+          <p>Email me</p>
+          </a>
         </div>
+        
       </div>
-      <span className="foto">
+      <div className="foto">
         <img src="../../assets/foto.png" height={200} width></img>
-      </span>
+      </div>
+      
     </section>
   );
 }
