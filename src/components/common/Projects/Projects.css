@@ -1,3 +1,7 @@
+.cont-project{
+  justify-content: center;
+}
+
 .text {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
@@ -15,16 +19,24 @@
 .ss {
   justify-content: center;
   display: flex;
+  padding-top: 20px;
 }
 
 .ss1 {
-  padding-left: 15px;
   padding-right: 15px;
+  
+}
+
+.img1 {
+  border-radius: 20px;
 }
 
 .ss2 {
   padding-left: 15px;
-  padding-right: 15px;
+}
+
+.img2 {
+  border-radius: 20px;
 }
 
 .code1 a {

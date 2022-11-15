@@ -42,8 +42,12 @@
   font-size: 18px;
 }
 
-.foto {
+.cont-foto {
   justify-content: center;
+}
+
+.foto {
+  border-radius: 40%;
 }
 
 .ig {

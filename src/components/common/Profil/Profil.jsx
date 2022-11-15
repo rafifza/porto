@@ -67,8 +67,8 @@ function Profil() {
         </div>
         
       </div>
-      <div className="foto">
-        <img src="../../assets/foto.png" height={200} width></img>
+      <div className="cont-foto">
+        <img src="../../assets/foto.png" className="foto" height={200} width></img>
       </div>
       
     </section>
