@@ -6,8 +6,8 @@
   font-family: "Poppins", sans-serif;
   font-size: 22px;
   padding-bottom: 30px;
-  background-color: #a3b18a;
-  color: #3a5a40;
+  background-color: #016170;
+  color: #ffffff;
   display: flex;
   justify-content: space-between;
   top: 0px;
@@ -21,6 +21,6 @@
 }
 .button {
   text-decoration: none;
-  color: #3a5a40;
+  color: #ffffff;
 
 }
