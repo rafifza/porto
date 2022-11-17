@@ -12,15 +12,14 @@
   justify-content: space-between;
   top: 0px;
   padding: 1.5rem;
-
 }
 
-.name{
-  padding-top: 25px;
+.logo{
   padding-left: 40px;
+  padding-right: 900px;
 }
 .button {
   text-decoration: none;
   color: #ffffff;
-
+  font-weight: bolder;
 }

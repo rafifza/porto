@@ -5,7 +5,9 @@ function Header() {
   return (
     <div name="cont-header" >
       <div className="header">
-        <div className="name">Muhammad Rafif Zahdana</div>
+        <img src="../../assets/logo.png" className="logo" height={70}>
+
+        </img>
         <a href="#scroll" className="button">
           <p>Projects</p>
         </a>
