@@ -24,7 +24,7 @@ function Profil() {
             <span className="Typing">
               <TypeAnimation
                 sequence={[
-                  "Laravel",
+                  "Flutter",
                   1300,
                   "React Native",
                   1300,
