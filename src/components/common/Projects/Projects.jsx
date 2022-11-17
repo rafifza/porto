@@ -12,7 +12,7 @@ function Project() {
       </div>
       <div className="ss">
         <div className="ss1">
-          <img src="../../assets/ss1.png" className="img1" height={250} ></img>
+          <img src="../../assets/ss1.png" className="img1" height={250}></img>
           <div className="code1">
             <a href="https://github.com/rafifza/Project-LAFORANT">
               Source code{" "}
