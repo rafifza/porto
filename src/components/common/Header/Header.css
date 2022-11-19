@@ -16,10 +16,15 @@
 
 .logo{
   padding-left: 40px;
-  padding-right: 900px;
 }
 .button {
   text-decoration: none;
   color: #ffffff;
   font-weight: bolder;
+}
+
+@media screen and (min-width: 480px) {
+  .cont-header {
+
+  }
 }

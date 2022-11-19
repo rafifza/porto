@@ -28,6 +28,7 @@
 
 .img1 {
   border-radius: 20px;
+  height: 250px;
 }
 
 .ss2 {
@@ -36,6 +37,7 @@
 
 .img2 {
   border-radius: 20px;
+  height: 250px;
 }
 
 .code1 a {
@@ -52,4 +54,13 @@
   font-weight: bold;
   text-decoration-color: white;
   color: inherit;
+}
+
+@media screen and (min-width: 480px) {
+  .img1 {
+    height: 200px;
+  }
+  .img2 {
+    height: 200px;
+  }
 }
