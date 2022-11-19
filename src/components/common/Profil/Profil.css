@@ -163,7 +163,7 @@
     padding-right: 20px;
   }
 }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1440px) {
   .details {
     padding-left: 0px;
   }
