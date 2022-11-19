@@ -4,7 +4,7 @@ import { TypeAnimation } from "react-type-animation";
 
 function Profil() {
   return (
-    <section className="cont">
+    <section className="cont-details">
       <div className="details">
         <div className="intro">
           <span className="Greeting">

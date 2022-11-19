@@ -1,4 +1,4 @@
-.cont {
+.cont-details {
   display: flex;
   max-width: 1100px;
   width: 100%;
@@ -80,8 +80,8 @@
 
 .email {
   font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  font-weight: bolder;
+  font-size: 15px;
+  font-weight: bold;
   text-decoration: none;
   padding-left: 10px;
   padding-right: 10px;
@@ -117,5 +117,38 @@
   }
   .foto{
     padding-right: 20px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .details {
+    padding-left: 20px;
+  }
+
+  .Greeting{
+    font-size: 18px;
+  }
+
+  .About{
+    font-size: 17px;
+  }
+
+  .Interest{
+    font-size: 18px;
+  }
+
+  .social{
+    font-size: 14px;
+  }
+  .Typing{
+    font-size: 10px;
+  }
+  .foto{
+    padding-right: 20px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .details {
+    padding-left: 0px;
   }
 }

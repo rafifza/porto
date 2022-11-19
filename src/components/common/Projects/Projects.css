@@ -40,6 +40,17 @@
   height: 250px;
 }
 
+.code1{
+  display: flex;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  border: #00e0c6;
+  padding: 8px;
+  background-color: #00e0c6;
+  color: #000000;
+}
 .code1 a {
   font-family: "Poppins", sans-serif;
   text-decoration: none;
@@ -48,6 +59,17 @@
   color: inherit;
 }
 
+.code2{
+  display: flex;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  border: #00e0c6;
+  padding: 8px;
+  background-color: #00e0c6;
+  color: #000000;
+}
 .code2 a {
   font-family: "Poppins", sans-serif;
   text-decoration: none;
@@ -56,7 +78,11 @@
   color: inherit;
 }
 
-@media screen and (min-width: 480px) {
+.github{
+  height: 25px;
+  width: auto;
+}
+@media screen and (min-width:320px) {
   .text{
     font-size: 30px;
   }
@@ -87,5 +113,79 @@
   }
   .code2 a{
     font-size: 25px;
+  }
+}
+
+@media screen and (min-width:480px) {
+  .text{
+    font-size: 30px;
+  }
+  .text2{
+    font-size: 27px;
+  }
+  .ss{
+    flex-direction: column;
+    justify-content: center;
+  }
+  .ss1{
+    padding-right: 0px;
+    margin-bottom: 60px;
+  }
+  .ss2{
+    padding-left: 0px;
+  }
+  .img1 {
+    height: auto;
+    width: 85%;
+  }
+  .img2 {
+    height: auto;
+    width: 85%;
+  }
+  .code1 a{
+    font-size: 25px;
+  }
+  .code2 a{
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .text{
+    font-size: 16px;
+  }
+  .text2{
+    font-size: 18px;
+  }
+  .ss{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .ss1{
+    padding-right: 0px;
+    margin-bottom: 60px;
+  }
+  .ss2{
+    padding-left: 0px;
+  }
+  .img1 {
+    height: auto;
+    width: 85%;
+  }
+  .img2 {
+    height: auto;
+    width: 85%;
+  }
+  .code1 a{
+    font-size: 20px;
+  }
+  .github{
+    height: 17px;
+    width: auto;
+  }
+  .code2 a{
+    align-items: center;
+    font-size: 20px;
   }
 }
