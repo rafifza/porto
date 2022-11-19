@@ -41,3 +41,9 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
+@media screen and (min-width: 480px) {
+  .skill {
+    font-size: 30px;
+  }
+}

@@ -91,3 +91,31 @@
   background-color: #00e0c6;
   color: #000000;
 }
+
+@media screen and (min-width: 480px) {
+  .details {
+    padding-left: 20px;
+  }
+
+  .Greeting{
+    font-size: 25px;
+  }
+
+  .About{
+    font-size: 21px;
+  }
+
+  .Interest{
+    font-size: 26px;
+  }
+
+  .social{
+    font-size: 22px;
+  }
+  .Typing{
+    font-size: 12px;
+  }
+  .foto{
+    padding-right: 20px;
+  }
+}
