@@ -78,7 +78,7 @@
   color: inherit;
 }
 
-.github{
+.logo-source-code{
   height: 25px;
   width: auto;
 }
@@ -86,33 +86,49 @@
   .text{
     font-size: 30px;
   }
+
   .text2{
     font-size: 27px;
   }
+
   .ss{
     flex-direction: column;
     justify-content: center;
   }
+
   .ss1{
     padding-right: 0px;
     margin-bottom: 60px;
   }
+
   .ss2{
     padding-left: 0px;
   }
+
   .img1 {
     height: auto;
     width: 85%;
   }
+
   .img2 {
     height: auto;
     width: 85%;
   }
+
   .code1 a{
     font-size: 25px;
   }
+
   .code2 a{
     font-size: 25px;
+  }
+
+  .logo-source-code{
+    align-items: center;
+    padding-top: 6px;
+    padding-right: 5px;
+    height: 21px;
+    width: auto;
   }
 }
 
@@ -142,8 +158,14 @@
     height: auto;
     width: 85%;
   }
+  .code1{
+    margin-top: 20px;
+  }
   .code1 a{
     font-size: 25px;
+  }
+  .code2{
+    margin-top: 20px;
   }
   .code2 a{
     font-size: 25px;
@@ -180,7 +202,7 @@
   .code1 a{
     font-size: 20px;
   }
-  .github{
+  .logo-source-code{
     height: 17px;
     width: auto;
   }
