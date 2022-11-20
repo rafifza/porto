@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Header } from "./components/common";
+import Header from "./components/common/Header/Header";
 import Profil from "./components/common/Profil/Profil";
 import Skills from "./components/common/Skills/Skills";
 import Project from "./components/common/Projects/Projects";
