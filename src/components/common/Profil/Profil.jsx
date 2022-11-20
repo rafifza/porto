@@ -20,16 +20,16 @@ function Profil() {
         </div>
         <div className="intCont">
           <span className="Interest">
-            <h4>What I'm interested in</h4>
+            <span className="content-interest">What I'm interested in</span>
             <span className="Typing">
               <TypeAnimation
                 sequence={[
                   "Flutter",
-                  1300,
+                  1400,
                   "React Native",
-                  1300,
+                  1500,
                   "Angular.js",
-                  1300,
+                  1400,
                   () => {
                     console.log("Done typing!");
                   },
@@ -37,13 +37,11 @@ function Profil() {
                 wrapper="div"
                 cursor={true}
                 repeat={Infinity}
-                style={{ fontSize: "2em" }}
               />
             </span>
           </span>
         </div>
-        <div className="social">
-          <h2>Socials</h2>
+        <div className="social">Socials
         </div>
         <div className="socmed">
           <div className="ig">
@@ -61,8 +59,7 @@ function Profil() {
               <img src="../../assets/github.png" height={30}></img>
             </a>
           </div>
-          <a href="mailto:rafifzahdana14@gmail.com" className="email">
-            <p>Email me</p>
+          <a href="mailto:rafifzahdana14@gmail.com" className="email">Email me
           </a>
         </div>
       </div>

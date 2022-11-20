@@ -33,14 +33,31 @@
 
 .About {
   font-family: "Poppins", sans-serif;
-  font-weight: 500;
+  font-weight: 300;
   text-align: left;
   justify-content: center;
 }
 
-.Interest {
+
+.content-interest{
   font-family: "Poppins", sans-serif;
+  font-weight: 700;
   font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.Typing {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.social {
+  font-family: "Poppins", sans-serif;
+  font-size: 23px;
+  text-align: left;
+  margin: 15px 0px 10px 0px;
+  font-weight: 700;
 }
 
 .cont-foto {
@@ -84,29 +101,16 @@
   border-style: solid;
 }
 
-.social {
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  text-align: left;
-}
-
 .socmed {
   display: flex;
-  border: 1px;
-}
-
-.Typing {
-  font-family: "Poppins", sans-serif;
-  font-size: 10px;
 }
 
 .email {
   font-family: "Poppins", sans-serif;
-  font-size: 13px;
+  font-size: 17px;
   font-weight: bold;
+  padding: 10px 20px 10px 20px;
   text-decoration: none;
-  padding-left: 20px;
-  padding-right: 20px;
   margin-left: 10px;
   border-radius: 10px;
   background-color: #00e0c6;
@@ -129,16 +133,16 @@
     font-size: 21px;
   }
 
-  .Interest{
-    font-size: 26px;
-  }
-
-  .social{
+  .content-interest{
     font-size: 20px;
   }
 
   .Typing{
-    font-size: 12px;
+    font-size: 16px;
+  }
+
+  .social{
+    font-size: 20px;
   }
   
   .foto{
@@ -159,16 +163,14 @@
     font-size: 17px;
   }
 
-  .Interest{
-    font-size: 18px;
+  .social{
+    font-size: 23px;
   }
 
-  .social{
-    font-size: 14px;
-  }
   .Typing{
-    font-size: 10px;
+    font-size: 17px;
   }
+
   .foto{
     padding-right: 20px;
   }
