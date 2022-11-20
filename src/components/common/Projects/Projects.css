@@ -40,7 +40,7 @@
   height: 250px;
 }
 
-.code1{
+.code1 {
   display: flex;
   text-align: center;
   margin-left: auto;
@@ -59,7 +59,7 @@
   color: inherit;
 }
 
-.code2{
+.code2 {
   display: flex;
   text-align: center;
   margin-left: auto;
@@ -78,30 +78,30 @@
   color: inherit;
 }
 
-.logo-source-code{
+.logo-source-code {
   height: 25px;
   width: auto;
 }
-@media screen and (min-width:320px) {
-  .text{
+@media screen and (min-width: 320px) {
+  .text {
     font-size: 30px;
   }
 
-  .text2{
+  .text2 {
     font-size: 27px;
   }
 
-  .ss{
+  .ss {
     flex-direction: column;
     justify-content: center;
   }
 
-  .ss1{
+  .ss1 {
     padding-right: 0px;
     margin-bottom: 60px;
   }
 
-  .ss2{
+  .ss2 {
     padding-left: 0px;
   }
 
@@ -115,15 +115,15 @@
     width: 85%;
   }
 
-  .code1 a{
+  .code1 a {
     font-size: 25px;
   }
 
-  .code2 a{
+  .code2 a {
     font-size: 25px;
   }
 
-  .logo-source-code{
+  .logo-source-code {
     align-items: center;
     padding-right: 5px;
     height: 21px;
@@ -131,22 +131,22 @@
   }
 }
 
-@media screen and (min-width:480px) {
-  .text{
+@media screen and (min-width: 480px) {
+  .text {
     font-size: 30px;
   }
-  .text2{
+  .text2 {
     font-size: 27px;
   }
-  .ss{
+  .ss {
     flex-direction: column;
     justify-content: center;
   }
-  .ss1{
+  .ss1 {
     padding-right: 0px;
     margin-bottom: 60px;
   }
-  .ss2{
+  .ss2 {
     padding-left: 0px;
   }
   .img1 {
@@ -157,46 +157,46 @@
     height: auto;
     width: 85%;
   }
-  .code1{
+  .code1 {
     margin-top: 20px;
     border-color: #000000;
     border-width: 2px;
     border-style: solid;
   }
-  .code1 a{
+  .code1 a {
     font-size: 25px;
   }
-  .code2{
+  .code2 {
     margin-top: 20px;
     border-color: #000000;
     border-width: 2px;
     border-style: solid;
   }
-  .code2 a{
+  .code2 a {
     font-size: 25px;
   }
-  .logo-source-code{
+  .logo-source-code {
     padding-top: 7px;
   }
 }
 
-@media screen and (min-width:1024px) {
-  .text{
+@media screen and (min-width: 1024px) {
+  .text {
     font-size: 16px;
   }
-  .text2{
+  .text2 {
     font-size: 18px;
   }
-  .ss{
+  .ss {
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
-  .ss1{
+  .ss1 {
     padding-right: 0px;
     margin-bottom: 60px;
   }
-  .ss2{
+  .ss2 {
     padding-left: 0px;
   }
   .img1 {
@@ -207,15 +207,15 @@
     height: auto;
     width: 85%;
   }
-  .code1 a{
+  .code1 a {
     font-size: 17px;
   }
-  .logo-source-code{
+  .logo-source-code {
     height: 22px;
     width: auto;
     padding-top: 0px;
   }
-  .code2 a{
+  .code2 a {
     font-size: 17px;
   }
 }

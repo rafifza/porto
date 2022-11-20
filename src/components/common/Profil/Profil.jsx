@@ -41,8 +41,7 @@ function Profil() {
             </span>
           </span>
         </div>
-        <div className="social">Socials
-        </div>
+        <div className="social">Socials</div>
         <div className="socmed">
           <div className="ig">
             <a href="https://www.instagram.com/rafif.za/">
@@ -59,7 +58,8 @@ function Profil() {
               <img src="../../assets/github.png" height={30}></img>
             </a>
           </div>
-          <a href="mailto:rafifzahdana14@gmail.com" className="email">Email me
+          <a href="mailto:rafifzahdana14@gmail.com" className="email">
+            Email me
           </a>
         </div>
       </div>
