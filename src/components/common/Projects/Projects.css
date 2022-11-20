@@ -160,12 +160,18 @@
   }
   .code1{
     margin-top: 20px;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
   }
   .code1 a{
     font-size: 25px;
   }
   .code2{
     margin-top: 20px;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
   }
   .code2 a{
     font-size: 25px;
