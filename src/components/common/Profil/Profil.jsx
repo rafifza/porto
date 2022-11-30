@@ -1,6 +1,7 @@
 import React from "react";
 import "./Profil.css";
 import { TypeAnimation } from "react-type-animation";
+import "./index.js";
 
 function Profil() {
   return (
