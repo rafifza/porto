@@ -11,7 +11,7 @@ function Project() {
         <p>My school projects</p>
       </div>
       <div className="ss">
-        <div className="ss1">
+        <div className="imgss1">
           <img src="../../assets/ss1.png" className="img1"></img>
           <button className="code1">
             <img
@@ -23,7 +23,7 @@ function Project() {
             </a>
           </button>
         </div>
-        <div className="ss2">
+        <div className="imgss2">
           <img src="../../assets/ss2.png" className="img2"></img>
           <button className="code2">
             <img
@@ -33,6 +33,16 @@ function Project() {
             <a href="https://github.com/rafifza/projectentre">Source code </a>
           </button>
         </div>
+      </div>
+      <div className="imgss3">
+      <img src="../../assets/ss3.png" className="img3"></img>
+          <button className="code2">
+            <img
+              src="../../assets/github.png"
+              className="logo-source-code"
+            ></img>
+            <a href="https://github.com/rafifza/projectentre">Source code </a>
+          </button>
       </div>
     </div>
   );
