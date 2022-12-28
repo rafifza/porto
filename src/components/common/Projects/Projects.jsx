@@ -34,15 +34,17 @@ function Project() {
           </button>
         </div>
       </div>
+      <div className="ss2">
       <div className="imgss3">
       <img src="../../assets/ss3.png" className="img3"></img>
-          <button className="code2">
+          <button className="code3">
             <img
               src="../../assets/github.png"
               className="logo-source-code"
             ></img>
-            <a href="https://github.com/rafifza/projectentre">Source code </a>
+            <a href="https://github.com/rafifza/Fullstack">Source code </a>
           </button>
+      </div>
       </div>
     </div>
   );
