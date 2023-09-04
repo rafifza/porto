@@ -40,6 +40,22 @@ function Skills() {
             width={90}
           ></img>
         </div>
+        <div className="react">
+          <img
+            src="../../assets/react.png"
+            alt="vsc"
+            height={90}
+            width={90}
+          ></img>
+        </div>
+        <div className="node">
+          <img
+            src="../../assets/node.png"
+            alt="vsc"
+            height={90}
+            width={90}
+          ></img>
+        </div>
       </div>
     </section>
   );
