@@ -1,67 +1,36 @@
 .con {
-  max-width: 60%;
-  padding-top: 60px;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.conta {
-  padding-right: 40px;
-  padding-left: 40px;
-  padding-bottom: 10px;
-  padding-top: 20px;
-  border-radius: 40px;
-  display: flex;
-  background-color: #00e0c6;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+  max-width: 60%;
 }
 
 .skill {
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
-  padding-bottom: 20px;
+  text-align: center;
 }
 
-.css {
-  padding-left: 20px;
-  padding-right: 20px;
+.conta {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  justify-content: center; /* Center items horizontally */
+  gap: 20px; /* Adds space between items */
+  background-color: #00e0c6;
+  padding: 2%;
+  border-radius: 16px;
 }
 
-.html {
-  padding-left: 20px;
-  padding-right: 20px;
+.conta > div {
+  flex: 1 1 150px; /* Makes each item responsive and forces wrapping */
+  text-align: center;
 }
 
-.figma {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.vsc {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.react {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.node {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.dart {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.flutter {
-  padding-left: 20px;
-  padding-right: 20px;
+/* Only affects images inside the .conta container */
+.conta img {
+  height: 100px; /* Set the same height for all images in .conta */
+  width: 100px; /* Set the same width for all images in .conta */
+  object-fit: contain; /* Keeps aspect ratio intact */
+  display: block;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 480px) {
