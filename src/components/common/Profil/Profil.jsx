@@ -13,9 +13,9 @@ function Profil() {
           </span>
           <div className="About">
             <p>
-              I'm interested in Web Development, User Interface Design and many
-              things i tried to learn.<br></br> In the future I hope I could be
-              good on things I'm interested in.
+              I'm interested in Mobile Development, User Interface Design and
+              many things i tried to learn.<br></br> In the future I hope I
+              could be good on things I'm interested in.
             </p>
           </div>
         </div>
@@ -29,7 +29,7 @@ function Profil() {
                   1400,
                   "React Native",
                   1500,
-                  "Angular.js",
+                  "Swift",
                   1400,
                   () => {
                     console.log("Done typing!");
@@ -63,14 +63,6 @@ function Profil() {
             Email me
           </a>
         </div>
-      </div>
-      <div className="cont-foto">
-        <img
-          src="../../assets/foto.png"
-          className="foto"
-          height={200}
-          width
-        ></img>
       </div>
     </section>
   );

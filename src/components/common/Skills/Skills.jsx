@@ -23,6 +23,14 @@ function Skills() {
             height={100}
             width={100}
           ></img>
+        </div>{" "}
+        <div className="js">
+          <img
+            src="../../assets/js.png"
+            alt="js"
+            height={100}
+            width={100}
+          ></img>
         </div>
         <div className="figma">
           <img
@@ -44,6 +52,14 @@ function Skills() {
           <img
             src="../../assets/react.png"
             alt="vsc"
+            height={100}
+            width={100}
+          ></img>
+        </div>{" "}
+        <div className="react">
+          <img
+            src="../../assets/reactnative.png"
+            alt="vsc"
             height={90}
             width={90}
           ></img>
@@ -54,6 +70,22 @@ function Skills() {
             alt="vsc"
             height={90}
             width={90}
+          ></img>
+        </div>{" "}
+        <div className="dart">
+          <img
+            src="../../assets/dart.png"
+            alt="vsc"
+            height={90}
+            width={110}
+          ></img>
+        </div>
+        <div className="flutter">
+          <img
+            src="../../assets/flutter.png"
+            alt="vsc"
+            height={80}
+            width={100}
           ></img>
         </div>
       </div>
